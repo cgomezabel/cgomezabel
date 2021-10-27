@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cgomezabel
-- I’m currently learning web development. 
+- I’m currently learning web development working on The Odin Project!
 
 
 <!---
